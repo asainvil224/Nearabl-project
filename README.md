@@ -37,8 +37,6 @@ How to run:
 Try these examples after loading the app:
 
 
-Search Field	Input   Example	Expected Result
-
 First Name	James	    Shows UserCard for James
 
 Company Name	Benton, John B Jr	    Shows CompanyCard and plays video 
