@@ -37,13 +37,13 @@ How to run:
 Try these examples after loading the app:
 
 
-First Name	James	    Shows UserCard for James
+First Name:	James	    (Shows UserCard for James)
 
-Company Name	Benton, John B Jr	    Shows CompanyCard and plays video 
+Company Name:	Benton, John B Jr	    (Shows CompanyCard and plays video)
 
-State	       NY	    Shows a list of users in New York
+State:	       NY	    (Shows a list of users in New York)
 
-Invalid Search	asdfghjkl	Shows "No results found"
+Invalid Search	asdfghjkl	(Shows "No results found")
 
 
 
