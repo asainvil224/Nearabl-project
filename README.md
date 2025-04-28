@@ -8,7 +8,7 @@ React + TypeScript
 
 TailwindCSS
 
-Vite (or Create React App)
+Vite 
 
 
 Features:
