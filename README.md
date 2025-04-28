@@ -47,7 +47,7 @@ State	       NY	    Shows a list of users in New York
 
 Invalid Search	asdfghjkl	Shows "No results found"
 
-Empty Search	(leave blank)	Alert or no results
+
 
   
 
